@@ -5,7 +5,8 @@ const options = {
 	method: 'POST',
 	headers: {
 		'content-type': 'application/json',
-		'X-RapidAPI-Key': 'BUSCARLA en la pagina de RapidAPI',
+		//Esta deshabilitada
+		'X-RapidAPI-Key': '8415f06a8amsh3315f101fec9136p18826ajsnf257e16f8655',
 		'X-RapidAPI-Host': 'instagram120.p.rapidapi.com'
 	},
 	body: {

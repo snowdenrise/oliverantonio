@@ -5,6 +5,7 @@ const content = null || document.getElementById('content');
 const options = {
     method: 'GET',
     headers: {
+        //Esta deshabilitada
         'X-RapidAPI-Key': '8415f06a8amsh3315f101fec9136p18826ajsnf257e16f8655',
 		'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
     }
