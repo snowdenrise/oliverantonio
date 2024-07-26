@@ -31,11 +31,9 @@ Para comenzar a trabajar en este proyecto, sigue estos pasos:
 1. Clona el repositorio:
    ```
    git clone https://github.com/tu-usuario/tu-repositorio.git
-
 2. Navega al directorio del proyecto:
    ```
    cd tu-repositorio
-
 3. Abre index.html en tu navegador preferido para ver el sitio.
 
 ## Contribuciones
